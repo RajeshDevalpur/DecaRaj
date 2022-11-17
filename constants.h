@@ -8,7 +8,7 @@
 #ifndef CONSTANTS_H_
 #define CONSTANTS_H_
 
-#define BUILD_VERSION "3.2.1.0.0"
+#define BUILD_VERSION "3.2.2.0.1"
 #define BUILD_VERSION_STEM_LENGTH 7
 #define BUILD_VERSION_MAX_LENGTH 14
 
